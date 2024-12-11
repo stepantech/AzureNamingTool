@@ -349,3 +349,19 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+enviroment/deployment.tfplan
+
+# Terraform directories and files
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfplan
+
+## Environment-specific variables
+*.tfvars
+
+# Crash logs and temporary files
+crash.log
+*.log
+*.bak
+*.tmp
